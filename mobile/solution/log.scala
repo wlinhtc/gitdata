@@ -1,0 +1,1 @@
+println "this is a log related message from Log";
